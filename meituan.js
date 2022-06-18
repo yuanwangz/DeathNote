@@ -5,11 +5,13 @@
 
 打开微信-美团团购小程序或美团/美团外卖APP捉包
 青龙把*.meituan.com包里的userId(可选，用于区别多账号捉包),token填到meituanCookie里，多账号换行或者@隔开。格式：
-export meituanCookie='userId=12345678&token=ccccccccccccccccc'
+export meituanCookie='userId=283178629
+token=w8ZokEg01G8VEWUNCALWE8_qwscAAAAAexIAANSUkYHrQ9fcRy1znWsI1XsYhk_qnjLHM4Brn1FM3JjsnWaczo_p08x4rokvqsRFZQ'
 userId可以删掉不填
 
 变量:
-meituanCookie: 必填，账号cookie，多账号换行或者@或者&隔开，格式: userId=12345678&token=ccccccccccccccccc
+meituanCookie: userId=283178629
+token=w8ZokEg01G8VEWUNCALWE8_qwscAAAAAexIAANSUkYHrQ9fcRy1znWsI1XsYhk_qnjLHM4Brn1FM3JjsnWaczo_p08x4rokvqsRFZQ
 meituanNotify：可选，推送开关，填0为不推送，填1或其他推送。默认为1
 meituanDrawKeyword：可选，抽奖的关键词，留空的话就不抽奖。默认为空
 meituanPosition： 可选，虚拟定位坐标，注意长度，格式: 113233330,23166670 (如113.233330,23.166670需要转换为113233330,23166670，即保留6位小数点)
