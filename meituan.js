@@ -10,7 +10,8 @@ token=w8ZokEg01G8VEWUNCALWE8_qwscAAAAAexIAANSUkYHrQ9fcRy1znWsI1XsYhk_qnjLHM4Brn1
 userId可以删掉不填
 
 变量:
-meituanCookie: userId=283178629
+meituanCookie: 
+userId=283178629
 token=w8ZokEg01G8VEWUNCALWE8_qwscAAAAAexIAANSUkYHrQ9fcRy1znWsI1XsYhk_qnjLHM4Brn1FM3JjsnWaczo_p08x4rokvqsRFZQ
 meituanNotify：可选，推送开关，填0为不推送，填1或其他推送。默认为1
 meituanDrawKeyword：可选，抽奖的关键词，留空的话就不抽奖。默认为空
