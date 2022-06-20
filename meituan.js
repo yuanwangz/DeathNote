@@ -9,6 +9,9 @@ export meituanCookie='userId=283178629
 token=w8ZokEg01G8VEWUNCALWE8_qwscAAAAAexIAANSUkYHrQ9fcRy1znWsI1XsYhk_qnjLHM4Brn1FM3JjsnWaczo_p08x4rokvqsRFZQ'
 userId可以删掉不填
 
+const meituanCookie='userId=283178629
+token=w8ZokEg01G8VEWUNCALWE8_qwscAAAAAexIAANSUkYHrQ9fcRy1znWsI1XsYhk_qnjLHM4Brn1FM3JjsnWaczo_p08x4rokvqsRFZQ'
+
 变量:
 meituanCookie: 
 userId=283178629
